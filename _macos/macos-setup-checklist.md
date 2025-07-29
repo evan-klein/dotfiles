@@ -486,6 +486,10 @@
 - [ ] `File` › `Alarm sounds` › `None`
 - [ ] `File` › `Choice of the color theme` › `Black`
 
+#### Parallels Desktop
+
+- [ ] Install [Parallels Desktop](https://www.parallels.com/products/desktop/download/)
+
 #### Dropbox
 
 - [ ] Install [Dropbox](https://www.dropbox.com/)
@@ -540,6 +544,7 @@
 - [ ] Sequel Ace
 - [ ] HTTPBot
 - [ ] VisualJSON
+- [ ] Parallels Desktop
 - [ ] Spotify
 - [ ] Alinof TimerPro
 - [ ] 1Password
