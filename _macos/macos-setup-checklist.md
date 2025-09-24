@@ -65,6 +65,9 @@
 			- [ ] Bottom-left: Start Screen Saver
 			- [ ] Top-right: Mission Control
 			- [ ] Bottom-right: Desktop
+- Desktop & Dock
+	- Widgets
+		- [ ] Dim widgets on desktop: Never
 - Dock & Menu Bar
 	- Sound
 		- [ ] Show in Menu Bar: checked
