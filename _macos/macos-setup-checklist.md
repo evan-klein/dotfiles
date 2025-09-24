@@ -446,6 +446,13 @@
 	eval "$(/opt/homebrew/bin/brew shellenv)"
 	```
 
+#### Bash
+
+- [ ] Install [Bash](https://formulae.brew.sh/formula/bash)
+	```sh
+	brew install bash
+	```
+
 #### PHP
 
 - [ ] Install [PHP](https://formulae.brew.sh/formula/php)
