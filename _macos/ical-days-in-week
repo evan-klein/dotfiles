@@ -8,4 +8,5 @@ fi
 
 osascript -e 'quit app "Calendar"'
 defaults write com.apple.iCal n\ days\ of\ week $1
+sleep 2
 open -a Calendar
