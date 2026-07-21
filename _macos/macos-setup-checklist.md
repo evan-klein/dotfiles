@@ -452,10 +452,6 @@
 
 - [ ] Install HTTPBot from the App Store
 
-#### Visual JSON
-
-- [ ] Install Visual JSON from the App Store
-
 #### Kaleidoscope
 
 - [ ] Install Kaleidoscope from the App Store
@@ -527,7 +523,6 @@
 - [ ] Transmit
 - [ ] Sequel Ace
 - [ ] HTTPBot
-- [ ] VisualJSON
 - [ ] Parallels Desktop
 - [ ] Spotify
 - [ ] Alinof TimerPro
