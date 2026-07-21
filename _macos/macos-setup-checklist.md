@@ -36,22 +36,9 @@
 - Apple ID
 	- [ ] Sign in to iCloud
 	- iCloud
-		- [ ] Photos: unchecked
-		- [ ] Keychain: unchecked
-		- [ ] Private Relay (Beta): unchecked
-		- [ ] Hide My Email: unchecked
-		- [ ] iCloud Drive: checked
-		- [ ] iCloud Mail: unchecked
-		- [ ] Contacts: checked
-		- [ ] Calendars: checked
-		- [ ] Reminders: checked
-		- [ ] Notes: checked
-		- [ ] Safari: checked
-		- [ ] Find My Mac: checked
-		- [ ] News: checked
-		- [ ] Stocks: checked
-		- [ ] Home: checked
-		- [ ] Siri: checked
+		- [ ] Passwords: off
+  		- [ ] iCloud Mail: off
+    	- [ ] Everything else: on
 - Desktop & Screen Saver
 	- Desktop
 		- Custom Color...
