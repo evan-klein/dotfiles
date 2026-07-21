@@ -527,6 +527,7 @@
 - [ ] Music
 - [ ] Alinof TimerPro
 - [ ] 1Password
+- [ ] App Store
 - [ ] System Preferences
 - [ ] Applications \(as a folder\)
 - [ ] Utilities \(as a folder\)
