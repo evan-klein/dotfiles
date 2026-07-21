@@ -313,6 +313,10 @@
 - [ ] Install Slack from the App Store
 	- [ ] Add to Login Items
 
+#### Quo
+
+- [ ] Install [Quo](https://www.quo.com/downloads)
+
 #### Logi Tune
 
 - [ ] Install [Logi Tune](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
@@ -496,7 +500,7 @@
 - [ ] Messages
 - [ ] Signal
 - [ ] Slack
-- [ ] OpenPhone
+- [ ] Quo
 - [ ] FaceTime
 - [ ] Calendar
 - [ ] Contacts
