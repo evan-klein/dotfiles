@@ -43,6 +43,7 @@
 	- Desktop
 		- Custom Color...
 			- [ ] #19202e
+   			- [ ] Gradient
 	- Screen Saver
 		- [ ] Screen Saver Options...
 		- [ ] Show screen saver after: 5 Minutes
