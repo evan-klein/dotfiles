@@ -507,7 +507,8 @@
 #### Dropbox
 
 - [ ] Install [Dropbox](https://www.dropbox.com/)
-	- `Dropbox` › `Preferences...`
+- [ ] Disable Apple integration
+- [ ] `Dropbox` › `Preferences...`
 		- Backups
 			- External Drive Backups
 				- [ ] Show setup notifications when new external drives are plugged-in: unchecked
