@@ -239,7 +239,7 @@
 - Settings
 	- [ ] Scan Mode: Flatbed
 	- [ ] Kind: Color
-	- [ ] Resolution: 300 dpi
+	- [ ] Resolution: 200 dpi
 	- [ ] Size: US Letter
 	- [ ] Scan To: `~/Scans/`
 	- [ ] Format: PDF
