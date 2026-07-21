@@ -316,10 +316,6 @@
 
 - [ ] Install [Microsoft Edge](https://www.microsoft.com/en-us/edge/)
 
-#### Opera
-
-- [ ] Install [Opera](https://www.opera.com/)
-
 #### Signal
 
 - [ ] Install [Signal](https://signal.org/)
@@ -328,10 +324,6 @@
 
 - [ ] Install Slack from the App Store
 	- [ ] Add to Login Items
-
-#### Discord
-
-- [ ] Install [Discord](https://discord.com/)
 
 #### Logi Tune
 
@@ -354,10 +346,6 @@
 #### LibreOffice
 
 - [ ] Install [LibreOffice](https://www.libreoffice.org/)
-
-#### DYMO Label
-
-- [ ] Install [DYMO Label](https://www.dymo.com/en_US/online-support)
 
 #### Adobe Creative Cloud
 
@@ -427,18 +415,6 @@
 #### Sequel Ace
 
 - [ ] Install [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?mt=12)
-
-#### Sequel Pro
-
-- [ ] Install [Sequel Pro](https://www.sequelpro.com/)
-- [ ] `Sequel Pro` › `Preferences...`
-	- Tables
-		- Reload Table After
-			- [ ] Adding a row: checked
-			- [ ] Editing a row: checked
-			- [ ] Removing a row: checked
-	- Auto Update
-		- [ ] Automatically check for updates: checked
 
 #### Homebrew
 
@@ -532,12 +508,10 @@
 - [ ] Safari
 - [ ] Chrome
 - [ ] Microsoft Edge
-- [ ] Opera
 - [ ] Mail
 - [ ] Messages
 - [ ] Signal
 - [ ] Slack
-- [ ] Discord
 - [ ] OpenPhone
 - [ ] FaceTime
 - [ ] Calendar
@@ -551,7 +525,6 @@
 - [ ] Sublime Text
 - [ ] Kaleidoscope
 - [ ] Transmit
-- [ ] Sequel Pro
 - [ ] Sequel Ace
 - [ ] HTTPBot
 - [ ] VisualJSON
