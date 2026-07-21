@@ -477,23 +477,23 @@
 - [ ] Install [Dropbox](https://www.dropbox.com/)
 - [ ] Disable Apple integration
 - [ ] `Dropbox` › `Preferences...`
-		- Backups
-			- External Drive Backups
-				- [ ] Show setup notifications when new external drives are plugged-in: unchecked
-			- Photos
-				- [ ] Enable camera uploads for: unchecked
-			- Screenshots
-				- [ ] Share screenshots and screen recordings using Dropbox: unchecked
-		- Network
-			- [ ] Bandwidth › Change Settings... › Upload rate: Don't limit
-			- [ ] Enable LAN sync: unchecked
-		- Notifications
-			- [ ] New files synced: unchecked
-		- Sync
-			- Storage of new files
-				- [ ] New files default: Available offline
-			- Select folders to sync to this Mac
-				- [ ] Select folders
+	- Backups
+		- External Drive Backups
+			- [ ] Show setup notifications when new external drives are plugged-in: unchecked
+		- Photos
+			- [ ] Enable camera uploads for: unchecked
+		- Screenshots
+			- [ ] Share screenshots and screen recordings using Dropbox: unchecked
+	- Network
+		- [ ] Bandwidth › Change Settings... › Upload rate: Don't limit
+		- [ ] Enable LAN sync: unchecked
+	- Notifications
+		- [ ] New files synced: unchecked
+	- Sync
+		- Storage of new files
+			- [ ] New files default: Available offline
+		- Select folders to sync to this Mac
+			- [ ] Select folders
 
 > If Smart Sync is enabled, you can choose between "Online Only" and "Local" on a folder-by-folder basis in Finder by right-clicking on a folder
 
