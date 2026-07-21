@@ -524,7 +524,7 @@
 - [ ] Sequel Ace
 - [ ] HTTPBot
 - [ ] Parallels Desktop
-- [ ] Spotify
+- [ ] Music
 - [ ] Alinof TimerPro
 - [ ] 1Password
 - [ ] System Preferences
