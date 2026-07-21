@@ -321,16 +321,6 @@
 
 - [ ] Install [Logi Tune](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
 
-#### Spotify
-
-- [ ] Install [Spotify](https://www.spotify.com/us/)
-- [ ] `Spotify` › `Preferences`
-	- Audio quality
-		- [ ] Streaming quality: Very High
-		- [ ] Download: Very High
-	- Startup and window behaviour
-		- [ ] Open Spotify automatically after you log into the computer: No
-
 #### Things 3
 
 - [ ] Install Things 3 from the App Store
