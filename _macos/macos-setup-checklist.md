@@ -337,6 +337,10 @@
 
 - [ ] Install [Discord](https://discord.com/)
 
+#### Logi Tune
+
+- [ ] Install [Logi Tune](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
+
 #### Spotify
 
 - [ ] Install [Spotify](https://www.spotify.com/us/)
