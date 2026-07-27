@@ -94,7 +94,6 @@
 	- [ ] Show Bluetooth in menu bar: checked
 - Keyboard
 	- Text
-		- [ ] Add [text snippets](https://github.com/evan-klein/email/blob/master/text-snippets.md)
 		- [ ] Correct spelling automatically: unchecked
 		- [ ] Capitalize words automatically: unchecked
 		- [ ] Add period with double-space: unchecked
