@@ -393,7 +393,7 @@
 
 #### Sequel Ace
 
-- [ ] Install [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?mt=12)
+- [ ] Install [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?mt=12) from the App Store
 
 #### Homebrew
 
