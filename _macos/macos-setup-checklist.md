@@ -98,8 +98,6 @@
 		- [ ] Capitalize words automatically: unchecked
 		- [ ] Add period with double-space: unchecked
 		- [ ] Use smart quotes and dashes: unchecked
-	- Input Sources
-		- [ ] Show Input menu in menu bar: checked
 - Displays
 	- Night Shift
 		- [ ] Schedule: Sunset to Sunrise
