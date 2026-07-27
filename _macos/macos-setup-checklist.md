@@ -488,6 +488,7 @@
 - [ ] Slack
 - [ ] Quo
 - [ ] FaceTime
+- [ ] Phone
 - [ ] Calendar
 - [ ] Contacts
 - [ ] Find My
@@ -503,6 +504,7 @@
 - [ ] HTTPBot
 - [ ] Parallels Desktop
 - [ ] Music
+- [ ] Image Capture
 - [ ] Alinof TimerPro
 - [ ] 1Password
 - [ ] App Store
