@@ -464,7 +464,6 @@
 		- Screenshots
 			- [ ] Share screenshots and screen recordings using Dropbox: unchecked
 	- Network
-		- [ ] Bandwidth › Change Settings... › Upload rate: Don't limit
 		- [ ] Enable LAN sync: unchecked
 	- Notifications
 		- [ ] New files synced: unchecked
